@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+.navbar .logo{
+    width: max(2%,80px);
+    /* width: 100%; */
+    /* max-width: 150px; */
+    /* margin-bottom: -20px; */
+}
+.navbar h3{
+    color: #454545;
+}
+.navbar .profile{
+    width: 40px;
+}

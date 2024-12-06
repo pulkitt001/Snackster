@@ -1,0 +1,14 @@
+
+  "dependencies": {
+    "bcrypt": "^5.1.1",    //by this we encrypt the user data and store the data in db
+    "body-parser": "^1.20.2",  //parse the data coming from the body
+    "cors": "^2.8.5",  //for giving permission to connect the frontend with backend
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",   // for Authentication
+    "mongoose": "^8.5.2",
+    "multer": "^1.4.5-lts.1",  //we can create the image storage system
+    "stripe": "^16.6.0",         //for handle online payments and gateways
+    "validator": "^13.12.0"
+  }
+}
