@@ -11,7 +11,7 @@ const StoreContextProvider =(props)=>{
     const [cartItems,setCartItems]=useState({});
 
 // while connecting with backend
-    const url="https://snackster-backend.onrender.com"
+    const url="http://localhost:4000";
     const [token,setToken]=useState("")
 
     // showing only those data which is stored in the database

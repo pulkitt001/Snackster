@@ -28,7 +28,7 @@ const Footer = () => {
         <div className="footer-content-right">
                 <h2>CONTACT US</h2>
                 <ul>
-                    <pre>+91  7320-0287-94</pre>
+                    <pre>+91  8279-3152-67</pre>
                     <li>contact@snackster.in</li>
                 </ul>
         </div>

@@ -7,7 +7,6 @@ import 'dotenv/config'
 import cartRouter from "./routes/cartRoute.js"
 import orderRouter from "./routes/orderRoute.js"
 
-// 1teKc0wWp83y0fFk
 
 
 
